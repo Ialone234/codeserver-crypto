@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/code-server:latest
+FROM ghcr.io/linuxserver/code-server
 
 USER root
 
